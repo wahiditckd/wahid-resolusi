@@ -1,6 +1,10 @@
 Rencana Konten
 Belajar javascript
-*angular
+
+
 React js
 git hub
-Belajar laravel
+=======
+React js
+git hub
+vlog
