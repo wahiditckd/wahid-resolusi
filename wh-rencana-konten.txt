@@ -1,10 +1,5 @@
 Rencana Konten
 Belajar javascript
-
-
-React js
-git hub
-=======
 React js
 git hub
 vlog
