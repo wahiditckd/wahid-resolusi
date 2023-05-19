@@ -1,4 +1,5 @@
 Rencana Konten
+Belajar javascript
 React js
 git hub
 vlog
