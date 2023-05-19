@@ -1,7 +1,10 @@
 Rencana Konten
 Belajar javascript
-*vue js
+
+
+React js
+git hub
+=======
 React js
 git hub
 vlog
-Belajar laravel
